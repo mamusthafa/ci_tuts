@@ -1,2 +1,2 @@
 # ci_tuts
-Codeigniter learning
+Learning Codeigniter
